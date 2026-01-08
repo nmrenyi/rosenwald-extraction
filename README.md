@@ -131,3 +131,9 @@ Email: [renyi1006@gmail.com](mailto:renyi1006@gmail.com)
 
 - [Extraction Pipeline](https://github.com/nmrenyi/extraire-tesseract-openai)
 - [Original Rosenwald Guide publications (1887-1906)](https://gallica.bnf.fr/ark:/12148/cb344120051/date)
+
+## More Information
+
+For more detailed information, see the full report:
+
+- Google Drive folder: https://drive.google.com/drive/folders/1p7XqrWZg4O1lyLGvgXd4mwM9ZVFZBUEy
