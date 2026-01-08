@@ -126,13 +126,7 @@ For questions, feedback, or collaboration:
 **Ren Yi**  
 Email: [renyi1006@gmail.com](mailto:renyi1006@gmail.com)
 
-## License
 
-This dataset is derived from historical public domain documents. Please verify appropriate usage rights for your specific application.
-
-## Acknowledgments
-
-Data extracted using Tesseract OCR and Google Gemini AI from original Rosenwald directory scans.
 ## Related Resources
 
 - [Extraction Pipeline](https://github.com/nmrenyi/extraire-tesseract-openai)
